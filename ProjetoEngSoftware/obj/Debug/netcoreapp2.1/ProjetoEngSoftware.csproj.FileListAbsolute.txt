@@ -1,0 +1,14 @@
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\bin\Debug\netcoreapp2.1\ProjetoEngSoftware.deps.json
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\bin\Debug\netcoreapp2.1\ProjetoEngSoftware.runtimeconfig.json
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\bin\Debug\netcoreapp2.1\ProjetoEngSoftware.runtimeconfig.dev.json
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\bin\Debug\netcoreapp2.1\ProjetoEngSoftware.dll
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\bin\Debug\netcoreapp2.1\ProjetoEngSoftware.pdb
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.RazorAssemblyInfo.cache
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.RazorAssemblyInfo.cs
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.AssemblyInfo.cs
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.RazorTargetAssemblyInfo.cache
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.dll
+C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.pdb
