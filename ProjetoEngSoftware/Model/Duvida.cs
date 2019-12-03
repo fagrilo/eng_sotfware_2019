@@ -12,6 +12,11 @@ namespace ProjetoEngSoftware.Model
         private int Id { get; set; }
         public string Enunciado { get; set; }
         public List<Disciplina> ListaDisciplina { get; set; }
+        public List<IAcoesDuvida> ListaAcoes;
+        public Duvida(List<IAcoesDuvida> acoes)
+        {
+            ListaAcoes = acoes;
+        }
         public void Perguntar()
         {
 
@@ -19,8 +24,10 @@ namespace ProjetoEngSoftware.Model
 
         public void ReceberDuvida(Duvida duvida)
         {
-            AcoesDuvida acoes = new AcoesDuvida();
-            acoes.Action(duvida);
+            foreach(IAcoesDuvida acoes in ListaAcoes)
+            {
+                acoes.Execute(duvida);
+            }
         }
 
         public void Responder(Duvida duvida)

@@ -11843,11 +11843,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fagrilo\\Downloads\\eng_sotfware_2019-master\\ProjetoEngSoftware\\ProjetoEngSoftware.csproj",
+      "projectUniqueName": "C:\\Users\\fagrilo\\Desktop\\dev\\EngSoft\\eng_sotfware_2019\\ProjetoEngSoftware\\ProjetoEngSoftware.csproj",
       "projectName": "ProjetoEngSoftware",
-      "projectPath": "C:\\Users\\fagrilo\\Downloads\\eng_sotfware_2019-master\\ProjetoEngSoftware\\ProjetoEngSoftware.csproj",
+      "projectPath": "C:\\Users\\fagrilo\\Desktop\\dev\\EngSoft\\eng_sotfware_2019\\ProjetoEngSoftware\\ProjetoEngSoftware.csproj",
       "packagesPath": "C:\\Users\\fagrilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fagrilo\\Downloads\\eng_sotfware_2019-master\\ProjetoEngSoftware\\obj\\",
+      "outputPath": "C:\\Users\\fagrilo\\Desktop\\dev\\EngSoft\\eng_sotfware_2019\\ProjetoEngSoftware\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fagrilo\\AppData\\Roaming\\NuGet\\NuGet.Config",

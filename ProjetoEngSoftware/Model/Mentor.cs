@@ -6,20 +6,14 @@ using System.Threading.Tasks;
 
 namespace ProjetoEngSoftware.Model
 {
-    public class Mentor
+    public class Mentor : Pessoa
     {
-        private int Id { get; set; }
         private List<Disciplina> Disciplinas { get; set; }
 
         public void AddDisciplina(Disciplina disciplina)
         {
             Disciplinas.Add(disciplina);
-            MentorDAO.Update();
-        }
-
-        public void Avaliar(int Nota, Pessoa pessoa)
-        {
-            pessoa.Avaliar(Nota, pessoa);
+            MentorDAO.Update(this.Id);
         }
 
     }
