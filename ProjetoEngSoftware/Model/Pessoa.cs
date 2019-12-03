@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using ProjetoEngSoftware.DAO;
 using System.Threading.Tasks;
 
 namespace ProjetoEngSoftware.Model
@@ -16,14 +17,14 @@ namespace ProjetoEngSoftware.Model
 
         public Pessoa Mostrar(int Id)
         {
-            Pessoa pessoa = DAOPessoa.Read(Id);
+            Pessoa pessoa = PessoaDAO.Read(Id);
             return pessoa;
         }
 
         public void Avaliar(int NotaAval, Pessoa pessoa)
         {
             pessoa.Notas.Add(NotaAval);
-            Avaliacao = Notas.Average();
+            pessoa.Avaliacao = Notas.Average();
         }
 
     }

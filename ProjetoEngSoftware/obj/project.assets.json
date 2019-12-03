@@ -11838,23 +11838,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\felip\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\fagrilo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\Desktop\\dev\\ProjetoEngSoftware\\ProjetoEngSoftware.csproj",
+      "projectUniqueName": "C:\\Users\\fagrilo\\Downloads\\eng_sotfware_2019-master\\ProjetoEngSoftware\\ProjetoEngSoftware.csproj",
       "projectName": "ProjetoEngSoftware",
-      "projectPath": "C:\\Users\\felip\\Desktop\\dev\\ProjetoEngSoftware\\ProjetoEngSoftware.csproj",
-      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\Desktop\\dev\\ProjetoEngSoftware\\obj\\",
+      "projectPath": "C:\\Users\\fagrilo\\Downloads\\eng_sotfware_2019-master\\ProjetoEngSoftware\\ProjetoEngSoftware.csproj",
+      "packagesPath": "C:\\Users\\fagrilo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\fagrilo\\Downloads\\eng_sotfware_2019-master\\ProjetoEngSoftware\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\fagrilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -11890,16 +11886,23 @@
             "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

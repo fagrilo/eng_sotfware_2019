@@ -12,3 +12,10 @@ C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEng
 C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.RazorTargetAssemblyInfo.cache
 C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.dll
 C:\Users\felip\Desktop\dev\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.pdb
+C:\Users\fagrilo\Downloads\eng_sotfware_2019-master\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.csprojAssemblyReference.cache
+C:\Users\fagrilo\Downloads\eng_sotfware_2019-master\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.RazorAssemblyInfo.cache
+C:\Users\fagrilo\Downloads\eng_sotfware_2019-master\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.RazorAssemblyInfo.cs
+C:\Users\fagrilo\Downloads\eng_sotfware_2019-master\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.AssemblyInfoInputs.cache
+C:\Users\fagrilo\Downloads\eng_sotfware_2019-master\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.AssemblyInfo.cs
+C:\Users\fagrilo\Downloads\eng_sotfware_2019-master\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.dll
+C:\Users\fagrilo\Downloads\eng_sotfware_2019-master\ProjetoEngSoftware\obj\Debug\netcoreapp2.1\ProjetoEngSoftware.pdb
